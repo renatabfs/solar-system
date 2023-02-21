@@ -1,0 +1,12 @@
+.sun {
+  height: 120px;
+  width: 120px;
+  background-image: url(../images/sun.png);
+  border-radius: 50%;
+  background-size: cover;
+  box-shadow: -6px -4px -56px #fa9155;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
